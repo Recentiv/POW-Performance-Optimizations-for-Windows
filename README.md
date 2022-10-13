@@ -1,1 +1,1 @@
-# POW-Performance-Optimizations-for-Windows
+# POW - Performance Optimizations for Windows
