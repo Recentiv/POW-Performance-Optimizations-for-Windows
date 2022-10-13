@@ -2,7 +2,7 @@
 
 ## Tool for increasing System Performance across multiple Features for a broad set of use cases.
 # 
-##Contents are:
+## Contents are:
 #
 ### A custom swapfile-size for optimal Experiences in Gaming and Emulation in the 'Performance Options'
 ### Deactivation of Mouse Smoothening and Enhanced pointer precision in the Mouse settings
