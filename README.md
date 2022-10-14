@@ -20,9 +20,15 @@ and many more to come!
 
 ### GPU Driver Update
 
+To Update the GPU driver...
+
 ### Chipset Driver Update
 
+To Update the Chipset driver...
+
 ### Bios Update
+
+To Update the Bios...
 
 ## Basic Windows Settings
 
