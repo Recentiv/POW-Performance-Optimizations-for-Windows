@@ -40,5 +40,7 @@ Especially useful when using Emulators, as those compile Shaders and load them i
 
 ## Advanced Windows Settings
 
+https://www.oo-software.com/de/shutup10
+
 
 
